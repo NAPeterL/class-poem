@@ -5,9 +5,10 @@ The rivers gleam and soft winds blow.
 My code will eternally flow.
 
 The trees will sing, the hills will sigh,
-The morning breaks as birds take ___.
+The morning breaks as birds take flight.
 Their whispers dance and kiss the sky.
 
-[Your closing stanza here]
+I now do finish the very last line.
+Upon completion everything looks fine.
 
 [Your Name]
