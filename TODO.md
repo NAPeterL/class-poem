@@ -22,5 +22,5 @@ In this exercise, you will complete a series of tasks by editing the file `poem.
 - [X] Complete the missing third line in the first stanza.
 - [X] Fill the gaps in the first and second stanza to improve the rhyme scheme.
 - [X] Add a closing stanza to the end of the poem.
-- [A] Add a title to the poem at the top of `poem.md`.
-- [ ] Sign your name at the bottom of `poem.md`.
+- [X] Add a title to the poem at the top of `poem.md`.
+- [X] Sign your name at the bottom of `poem.md`.
