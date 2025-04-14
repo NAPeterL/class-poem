@@ -1,7 +1,7 @@
 [Title goes here]
 
 The sun will rise and skies will glow,
-The rivers gleam and soft winds ___.
+The rivers gleam and soft winds blow.
 [Your line here]
 
 The trees will sing, the hills will sigh,
